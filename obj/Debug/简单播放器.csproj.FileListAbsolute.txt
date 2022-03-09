@@ -1,0 +1,15 @@
+E:\Visual Studio Community\C#\简单播放器\bin\Debug\简单播放器.exe.config
+E:\Visual Studio Community\C#\简单播放器\bin\Debug\简单播放器.exe
+E:\Visual Studio Community\C#\简单播放器\bin\Debug\简单播放器.pdb
+E:\Visual Studio Community\C#\简单播放器\bin\Debug\Interop.WMPLib.dll
+E:\Visual Studio Community\C#\简单播放器\bin\Debug\AxInterop.WMPLib.dll
+E:\Visual Studio Community\C#\简单播放器\obj\Debug\简单播放器.csprojAssemblyReference.cache
+E:\Visual Studio Community\C#\简单播放器\obj\Debug\Interop.WMPLib.dll
+E:\Visual Studio Community\C#\简单播放器\obj\Debug\AxInterop.WMPLib.dll
+E:\Visual Studio Community\C#\简单播放器\obj\Debug\简单播放器.csproj.ResolveComReference.cache
+E:\Visual Studio Community\C#\简单播放器\obj\Debug\简单播放器.Form1.resources
+E:\Visual Studio Community\C#\简单播放器\obj\Debug\简单播放器.Properties.Resources.resources
+E:\Visual Studio Community\C#\简单播放器\obj\Debug\简单播放器.csproj.GenerateResource.cache
+E:\Visual Studio Community\C#\简单播放器\obj\Debug\简单播放器.csproj.CoreCompileInputs.cache
+E:\Visual Studio Community\C#\简单播放器\obj\Debug\简单播放器.exe
+E:\Visual Studio Community\C#\简单播放器\obj\Debug\简单播放器.pdb
