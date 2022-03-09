@@ -4,7 +4,7 @@
 
 你需要将音乐文件和歌词文件放在`F:\音乐`下
 
-将图标放在F盘下 包括:favicon.ico,voice.png,voice_off.png
+将图标放在F盘下 包括:`favicon.ico`,`voice.png`,`voice_off.png`
 
 [ICO图标在线生成](https://tool.520101.com/diannao/ico/)
 
